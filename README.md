@@ -36,7 +36,7 @@
 This project uses file-based persistence, here I show you the base data for a better understanding:
 
 ```
-Location: GUI_Java-AeroSpyne/
+Location: GUI_Java-AeroSpyne/AeroSpyne.text
 ```
 
 ```
